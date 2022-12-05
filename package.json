@@ -1,5 +1,24 @@
 {
   "dependencies": {
+    "hint": "^7.1.3",
     "lighthouse": "^9.6.8"
-  }
+  },
+  "name": "admission_trial_project",
+  "description": "<a name=\"readme-top\"></a>",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgeabrahan/admission_trial_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgeabrahan/admission_trial_project/issues"
+  },
+  "homepage": "https://github.com/jorgeabrahan/admission_trial_project#readme"
 }
